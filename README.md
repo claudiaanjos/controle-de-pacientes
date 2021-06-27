@@ -1,6 +1,6 @@
 # Controle de Pacientes
 
-### Projeto "Controle de dados de pacientes para nutricionistas" desenvolvido para o curso de *JavaScript: Programando na linguagem da web* do instrutor Douglas Quintanilha. 
+### Projeto "Controle de dados de pacientes para nutricionistas" desenvolvido para o curso de *JavaScript: Programando na linguagem da web* do instrutor Douglas Quintanilha (Alura). 
 
 
 &nbsp;
