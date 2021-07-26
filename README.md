@@ -16,9 +16,9 @@ O site "Controle de dados de pacientes para nutricionistas" possibilita armazena
 
 ### ⚒️  Tecnologias
 
-- HTML
-- CSS
-- JavaScript
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 &nbsp;
 
