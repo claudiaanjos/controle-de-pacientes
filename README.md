@@ -16,11 +16,9 @@ O site "Controle de dados de pacientes para nutricionistas" possibilita armazena
 
 ### ⚒️  Tecnologias
 
-As ferramentas utilizadas no projeto foram:
-
-- HTML;
-- CSS;
-- JavaScript.
+- HTML
+- CSS
+- JavaScript
 
 &nbsp;
 
