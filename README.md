@@ -25,7 +25,7 @@ O site "Controle de dados de pacientes para nutricionistas" possibilita armazena
 ##### Clique na imagem para visualizar a página:
 
 
-[<img src="image/site.png" alt="Foto do site controle de pacientes" width="100%"/>](https://controle-de-pacientes.claudinha.repl.co/)
+[<img src="image/site.png" alt="Foto do site controle de pacientes" width="80%"/>](https://controle-de-pacientes.claudinha.repl.co/)
 
 &nbsp;
 
